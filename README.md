@@ -16,7 +16,7 @@ Low Frequency Mutation Detector
 
     cd example; sh test.sh # check if it works
 
-    # if not work, you need to compile by yourself
+    # if not work, you need to compile it as follows.
     cd ..
     vi install.sh
     # modify paths to SeqLib alglib and librarys    
