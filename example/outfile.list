@@ -1,0 +1,15 @@
+-rw-r--r-- 1 yerui       20 Jul 18 10:41 out.dcs.1.fq.gz
+-rw-r--r-- 1 yerui       20 Jul 18 10:41 out.dcs.2.fq.gz
+-rw-r--r-- 1 yerui   554436 Jul 18 10:41 out.dcs.bam
+-rw-r--r-- 1 yerui        0 Jul 18 10:41 out.dcs.bam.sign
+-rw-r--r-- 1 yerui   623926 Jul 18 10:41 out.dcs.sort.bam
+-rw-r--r-- 1 yerui      616 Jul 18 10:41 out.dcs.sort.bam.bai
+-rw-r--r-- 1 yerui        0 Jul 18 10:41 out.dcs.sort.bam.sign
+-rw-r--r-- 1 yerui 10544012 Jul 18 10:41 out.family.bam
+-rw-r--r-- 1 yerui   142417 Jul 18 10:41 out.family.bam.rdf
+-rw-r--r-- 1 yerui        0 Jul 18 10:41 out.family.bam.sign
+-rw-r--r-- 1 yerui    32016 Jul 18 10:41 out.mut
+-rw-r--r-- 1 yerui     4368 Jul 18 10:41 out.mut.adj
+-rw-r--r-- 1 yerui        0 Jul 18 10:41 out.mut.adj.sign
+-rw-r--r-- 1 yerui  2945426 Jul 18 10:41 out.pileup
+-rw-r--r-- 1 yerui        0 Jul 18 10:41 out.pileup.sign
