@@ -16,7 +16,7 @@ Low Frequency Mutation Detector
 
     cd example; sh test.sh # check if it works
 
-    # if not work, please export PATH of needed libs, retest
+    # if not work, please export PATH to needed libs, retest
     # or compile it as follows.
     cd ..
     vi install.sh
