@@ -11,7 +11,7 @@ Low Frequency Mutation Detector
 - lhmut(https://github.com/RainyEricYe/lhmut)
 
 # Install
-    git clone https://github.com/RainyEricYe/lfmd2.git
+    git clone https://github.com/RainyEricYe/lfmd.git
     cd lfmd2
 
     cd example; sh test.sh # check if it works
